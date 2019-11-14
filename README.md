@@ -1,6 +1,7 @@
 ## Structure
 
 `MainActivity` : Demo of HMS Account service
+
 `LocationActivity`: Demo of HMS Location service
 
 ## Usage
