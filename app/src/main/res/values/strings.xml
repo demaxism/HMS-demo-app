@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HMSDemo</string>
+    <string name="str_signin">Sign in</string>
+    <string name="str_auth_signin">Auth mode SignIn</string>
+    <string name="str_signout">Sign Out</string>
+    <string name="str_btn_switch">location</string>
+    <string name="str_account">account</string>
+    <string name="str_req_loc">Request Location</string>
+    <string name="str_stop_loc">Stop</string>
+</resources>
